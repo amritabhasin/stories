@@ -12,7 +12,4 @@ background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, F
 
 
 h1 
-{ p.dotted {border-style: dotted;}
-  h1 border: 1px solid black;
-    outline-style: dotted;
-  outline-color: purple }
+{ border-style: dotted; }
